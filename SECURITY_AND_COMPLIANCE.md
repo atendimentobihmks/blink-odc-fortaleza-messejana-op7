@@ -1,8 +1,8 @@
 # Segurança, Privacidade e Conformidade LGPD
 
-## Unidade: OdontoCompany Itaquá
-* **Responsável Técnico:** Dra. Stefanni Trifico Garcia (CRO-SP 134552)
-* **Endereço:** Estrada dos Índios, 811A, Vila Itaquassu, Itaquaquecetuba/SP - CEP 08588-000
+## Unidade: OdontoCompany Fortaleza Messejana
+* **Responsável Técnico:** Dra. Lourdes Gabrielle de Almeira Lima (CRO-CE 12138)
+* **Endereço:** R. Ten. Jurandir Alencar, 122, Messejana, Fortaleza/CE - CEP 60840-285
 * **Data de Implementação:** Agosto de 2026
 
 ---
