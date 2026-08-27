@@ -8,6 +8,7 @@ Link na Bio de Alta Conversão, Mobile-First e Alta Performance desenvolvido par
 * **Responsável Técnico:** Dra. Lourdes Gabrielle de Almeira Lima • CRO-CE 12138 • Responsável Técnico
 * **Endereço:** R. Ten. Jurandir Alencar, 122 • Messejana, Fortaleza/CE
 * **WhatsApp:** (85) 2139-8899 (`5585981844048`)
+* **Site Oficial:** https://lpodcfortalezamessejana.vercel.app/
 * **Instagram:** https://www.instagram.com/odontocompany_messejana/
 * **Facebook:** https://www.facebook.com/profile.php?id=61556381260299
 * **Horário:** Seg-Sex (08:00 - 18:00) | Sáb (08:00 - 13:00)
